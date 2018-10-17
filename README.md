@@ -14,8 +14,8 @@ In addition to the character generation, it also simulates their actions. Having
 Simple!
 
 ```
-git https://github.com/benjaminsanders/Dragon.git
-cd Dragon
+git https://github.com/benjaminsanders/dragon.git
+cd dragon
 sudo javac Dragon.java
 java Dragon
 ```
